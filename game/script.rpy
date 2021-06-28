@@ -3,7 +3,7 @@
 # Declare characters used by this game. The color argument colorizes the
 # name of the character.
 
-define e = Character("Eileen")
+define nb = Character("Lady Natalena")
 
 
 # The game starts here.
@@ -39,7 +39,14 @@ label start:
 
     Down here, no one knew me as the Brunelli Bastard or sneered and called me an island rat from Rasenna.
 
-    It was nice to just forget amongst acquaintances who kenw nothing of the life I lived during the day.
-"""
+    It was nice to just forget amongst acquaintances who knew nothing of the life I lived during the day.
+
+    """
+
+    
+    show natalena darktown
+    with fade
+
+
 
     return
